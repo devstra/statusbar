@@ -7,4 +7,5 @@ Currently displays the following info:
 * Date and time
 
 Screenshot:
-![screenshot](https://github.com/xsd020/statusbar/blob/main/example.png?raw=true)
+<br/></br>
+![screenshot](example.png?raw=true)
